@@ -7,6 +7,7 @@
 - AtCoder highest rating: 2181
 - ICPC2021 国内予選 23位 / Yokohama Regional 14位 (KUSunoki)
 - ICPC2023 国内予選 8位 / Yokohama Regional 12位 / Asia Pacific Championship 13位 (Red Phobia)
+- ICPC2024 国内予選 6位 (Red Phobia)
 - Google Code Jam 2022 393rd
 - 競技用ライブラリをPythonで多数実装
 
